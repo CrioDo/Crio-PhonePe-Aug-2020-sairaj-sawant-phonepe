@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/precache-manifest.e6b1975f20b565b20aa8cc855eac20a6.js"
+  "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/precache-manifest.860a522e125ffdda641cc169c4a94c69.js"
 );
 
 self.addEventListener('message', (event) => {

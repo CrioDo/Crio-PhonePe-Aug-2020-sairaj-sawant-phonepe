@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e7571c5d9d4eacb3f6fcb9ee9d892a1",
+    "revision": "497353cb3f29354b2b868be2a5607443",
     "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/index.html"
   },
   {
-    "revision": "4e65b9b76272f08e9d14",
+    "revision": "b405c39a726ab8be7914",
     "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "42369c3401ec80fe710c",
+    "revision": "7d04a0041fb1372b3ffd",
     "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "4e65b9b76272f08e9d14",
-    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/2.9a475705.chunk.js"
+    "revision": "b405c39a726ab8be7914",
+    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/2.d7bed743.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/2.9a475705.chunk.js.LICENSE.txt"
+    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/2.d7bed743.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42369c3401ec80fe710c",
-    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/main.b16e466a.chunk.js"
+    "revision": "7d04a0041fb1372b3ffd",
+    "url": "/Crio-PhonePe-Aug-2020-sairaj-sawant-phonepe/static/js/main.a9151d4b.chunk.js"
   },
   {
     "revision": "7b1eac856e295f0f8b12",
